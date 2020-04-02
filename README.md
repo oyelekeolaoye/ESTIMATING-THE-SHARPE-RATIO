@@ -5,4 +5,4 @@ This is a part of DataCamp's structured projects. The core aim of this project i
 
 My motivation for completing this project is to apply the knowledge of time-series I've gained so far and also explore the realm of applied finance while practising core data science modules in Python such as numpy, pandas and matplotlib.
 
-In this project, I find that the Sharpe Ratio obtained was heavilily influenced by the mean. I hope to explore this further.
+In this project, I find that the Sharpe Ratio obtained was heavily influenced by the mean. I hope to explore this further.
