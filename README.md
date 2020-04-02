@@ -1,2 +1,2 @@
 # ESTIMATING-THE-SHARPE-RATIO
-This project aims to estimate the Sharpe Ratio of comparing the risk and return of Amazon and Facebook Stocks using the S&amp;P 500 as benchmark.
+This project aims to estimate the Sharpe Ratio, a measure of comparing the risk and return of Amazon and Facebook Stocks using the S&amp;P 500 as benchmark.
